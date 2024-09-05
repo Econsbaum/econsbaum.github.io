@@ -1,3 +1,91 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://www.example.com/"
+#theme: "up-business-theme"
+languageCode: "es"
+
+title: "Econsbaum"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Econsbaum"
+  description: "Ingeniería y Consultoría"
+  images: 
+    - "images/hero-image.png"
+
+  logo: "images/logo-econsbaum.png"
+  #"arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Calle Pedro Salazar No. 627 Zona Sopocachi (Cerca AJAM)"
+
+  contact:
+    - "econsbaum@gmail.com"
+    - "(591)-70170096  (591)-71220431"
+
+  copyright: "© 2024 Econsbaum All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Mineria"
+      url: "/about"
+      weight: 2
+
+    - name: "Industria"
+      url: "/work"
+      weight: 3
+
+    - name: "Capacitación"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/post"
+      weight: 5
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/about"
+      weight: 2
+
+    - name: "Our team"
+      url: "/homepage"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"

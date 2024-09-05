@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Trabajamos por **mejorar** empresas"
+  text: "Desde presentación de propuestas hasta implementación de un proceso."
+
+  buttonPrimary:
+    label: "Como trabajamos"
+    url: "#"
+
+  buttonSecondary:
+    label: "Contactenos"
+    url: ""
+
