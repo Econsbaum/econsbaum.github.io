@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Trabajamos por **mejorar** empresas"
+  title: "Trabajamos para **mejorar** empresas"
   text: "Desde presentación de propuestas hasta implementación de un proceso."
 
   buttonPrimary:
-    label: "Como trabajamos"
-    url: "#"
+    label: "Cotice nuestros servicios"
+    url: "https://wa.me/59170170096?text=Buenos%dias%Econsbaum%quisiera%una%cotizacion%de%sus%servicios"
 
   buttonSecondary:
     label: "Contactenos"
-    url: ""
+    url: "https://wa.me/59170170096?text=Buenos%25dias%25quisiera%25informacion%acerca%de%25sus%25servicios%25en%Econsbaum"
 

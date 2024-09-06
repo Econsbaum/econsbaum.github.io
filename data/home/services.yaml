@@ -3,32 +3,32 @@ id: "services"
 
 content:
   title: "Nuestro principales servicios en ..."
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "Brindamos un servicio multidisciplinario en los siguientes rubros"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Minería"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/ecosbaum-mineria.jpg"
+      title: "Para el rubro Minero"
+      text: "Ofrecemos asesoria legal, tramites, contratos, gestion de financiamiento, identificación de betas con estimación de recursos y puesta en marcha de procesos metalurgicos."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Más ..."
+        url: "/mineria"
 
-    - image: "images/services-web-development.png"
-      title: "Industria"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/econsbaum-industria.jpg"
+      title: "Servicios para la Industria"
+      text: "Optimizamos procesos industriales mejorando la productividad, realizamos mantenimiento preventivo y correctivo de maquinaria y realizamos la implementación de sistemas de control automático."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Más ..."
+        url: "/industria"
 
-    - image: "images/services-web-development.png"
-      title: "Construción"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/econsbaum-construccion.jpg"
+      title: "Area de la construcción"
+      text: "Ofrecemos la elaboración de prepusupuesto de construcción, y memorias de cálculo de edificaciones y estructuras metálicas"
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Más ..."
+        url: "/construccion"
     
-    - image: "images/services-web-development.png"
-      title: "Capacitación"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/econsbaum-capacitacion.jpg"
+      title: "Capacitaciones"
+      text: "Ofrecemos una amplia gama de cursos de capacitación en diversas áreas técnicas. Estos incluyen cursos en diseño experimental, simulación de procesos, análisis matemático y Sistemas de Información Geográfica (SIG)."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Más ..."
+        url: "/capacitaciones"

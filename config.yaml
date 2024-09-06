@@ -25,7 +25,7 @@ params:
   social:
     dribbble: "#"
     instagram: "#"
-    facebook: "#"
+    facebook: "https://www.facebook.com/econsbaum/"
     twitter: "#"
 
   location:
@@ -39,52 +39,52 @@ params:
 
 menus:
   main:
-    - name: "Home"
-      url: "/#hero"
+    - name: "Mineria"
+      url: "/mineria"
       weight: 1
 
-    - name: "Mineria"
-      url: "/about"
+    - name: "Industria"
+      url: "/industria"
       weight: 2
 
-    - name: "Industria"
-      url: "/work"
+    - name: "Capacitaciones"
+      url: "/capacitaciones"
       weight: 3
 
-    - name: "Capacitación"
-      url: "/#"
+    - name: "Construcción"
+      url: "/construccion"
       weight: 4
 
-    - name: "Blog"
-      url: "/post"
-      weight: 5
+    # - name: "Videos"
+    #   url: "/post"
+    #   weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
-      weight: 5
+    - name: "Contactenos"
+      url: "https://wa.me/59170170096?text=Buenos%dias%quisiera%informacion%acerca%de%sus%servicios%en%Econsbaum"
+      weight: 6
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Home"
+    - name: "Principal"
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/about"
+    - name: "Cotice nuestros servicios"
+      url: "https://wa.me/59170170096?text=Buenos%dias%Econsbaum%quisiera%una%cotizacion%de%sus%servicios"
       weight: 2
 
-    - name: "Our team"
-      url: "/homepage"
-      weight: 3
+    # - name: "Our team"
+    #   url: "/homepage"
+    #   weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
 
 taxonomies:
   series: "series"
