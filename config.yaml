@@ -89,3 +89,10 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: false
